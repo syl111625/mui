@@ -1,0 +1,44 @@
+{
+	"a.html": {
+		"resources": [
+			"css/a.css",
+			"css/mui.min.css"
+		]
+	},
+	"index.html": {
+		"resources": [
+			"a.html",
+			"js/mui.min.js",
+			"fonts/mui.ttf",
+			"css/mui.min.css",
+			"css/a.css",
+			"img/1.jpg",
+			"creatNew.html",
+			"updown.html"
+		],
+		"refer": [
+			"a.html",
+			"d.html",
+			"c.html",
+			"b.html",
+			"openNew.html",
+			"creatNew.html",
+			"updown.html"
+		]
+	},
+	"b.html": {
+		"resources": [
+			"css/mui.min.css"
+		]
+	},
+	"openNew.html": {
+		"resources": [
+			"css/mui.min.css"
+		]
+	},
+	"updown.html": {
+		"resources": [
+			"css/mui.min.css"
+		]
+	}
+}
